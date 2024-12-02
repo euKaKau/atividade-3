@@ -31,4 +31,4 @@ Este projeto tem como objetivo criar uma calculadora funcional em Python, capaz 
 ## **Como executar**
 1. Clone este repositório:
    ```bash
-   git clone
+   git clone https://github.com/seu-usuario/calculadora-python.git
