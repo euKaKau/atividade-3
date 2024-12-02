@@ -1,0 +1,31 @@
+### **Processo de Desenvolvimento**
+
+O desenvolvimento da calculadora seguiu etapas bem estruturadas para garantir organização e funcionalidade.
+
+#### **Etapas do Projeto**
+1. **Planejamento**:  
+   Definimos as funcionalidades básicas e a estrutura inicial do projeto.
+
+2. **Implementação**:  
+   Criamos o código para operações matemáticas básicas e um menu interativo, com tratamento de erros para entrada de dados e divisão por zero.
+
+3. **Testes**:  
+   Validamos o funcionamento correto das operações e do menu, ajustando mensagens de erro para melhorar a experiência do usuário.
+
+4. **Documentação**:  
+   Escrevemos um `README.md` detalhando objetivos, funcionalidades e cronograma.
+
+---
+
+### **Desafios Enfrentados**
+- **Compreender o Git e o site**: Um dos maiores desafios foi entender como o site funciona, especialmente o uso do Git para gerenciar o projeto e colaborar. Foi necessário explorar comandos e práticas para criar branches, realizar commits e organizar o trabalho.
+- **Validação de entradas**: Garantir que o programa lidasse com entradas inválidas de forma robusta também exigiu esforço e ajustes no código.
+
+---
+
+### **Como o Git ajudou**
+- **Branches**: Facilitou o desenvolvimento paralelo (e.g., `feature/basic-operations` e `feature/documentation`), isolando cada funcionalidade.
+- **Commits**: Permitiu rastrear mudanças incrementais, documentando cada etapa do progresso.
+- **Organização**: Ajudou a manter o projeto estruturado e rastreável, mesmo durante a curva de aprendizado.
+
+Apesar das dificuldades iniciais, o uso do Git foi essencial para gerenciar o projeto e garantir sua evolução de forma organizada. 🚀
